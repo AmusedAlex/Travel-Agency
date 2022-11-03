@@ -1,0 +1,17 @@
+.searchButton {
+  background-color: #f67570;
+  color: black;
+  border-color: #f67570;
+}
+
+.jumbroTron {
+  background-image: url(https://cdn.pixabay.com/photo/2017/11/01/18/17/christmas-2908901_1280.jpg);
+  object-fit: contain;
+  background-repeat: no-repeat;
+}
+
+.getInTouchButton {
+  background-color: #f67570;
+  color: black;
+  border-color: black;
+}
